@@ -1,6 +1,6 @@
 /*
  1. start
- 2. double sks matematika = 2, sks algoritma = 3
+ 2. int sks matematika = 2, sks algoritma = 3
  3. input nilai ujian matematika
  4. input nilai ujian algoritma
  5. mengalikan masing masing nilai matkul dengan sks
